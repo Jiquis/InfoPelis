@@ -1,0 +1,42 @@
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\bin\Debug\Proyecto_Topicos.exe
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\bin\Debug\Proyecto_Topicos.exe.config
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.csproj.AssemblyReference.cache
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.csproj.SuggestedBindingRedirects.cache
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.Form1.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoAvatar2.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoAvengersEndgame.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoGuardianesVol3.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoTelefonoNegro.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.Properties.Resources.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.csproj.GenerateResource.cache
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.csproj.CoreCompileInputs.cache
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.exe
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.pdb
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\bin\Debug\Proyecto_Topicos.pdb
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoCars.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoKungFuPanda.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoMarioBros.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoMiVillanoF2.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoSpiderITSV.resources
+D:\Archivos\New folder (3)\Programas de Visual\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoSuzume.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\bin\Debug\Proyecto_Topicos.exe.config
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\bin\Debug\Proyecto_Topicos.exe
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\bin\Debug\Proyecto_Topicos.pdb
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.Form1.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoAvatar2.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoAvengersEndgame.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoCars.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoGuardianesVol3.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoKungFuPanda.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoMarioBros.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoMiVillanoF2.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoSpiderITSV.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoSuzume.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.InfoTelefonoNegro.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.Properties.Resources.resources
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.exe
+C:\Users\DELL\Desktop\Proyecto_Topicos\Proyecto_Topicos\obj\Debug\Proyecto_Topicos.pdb
